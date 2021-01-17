@@ -7,7 +7,7 @@ from matplotlib import pyplot as plt
 
 import pickle
 
-
+#elo
 import socket
 client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 server_address = ('127.0.0.1', 8089)
